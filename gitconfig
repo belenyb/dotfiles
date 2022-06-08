@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = belenyardebuller@gmail.com
+	name = Belen Yarde Buller
